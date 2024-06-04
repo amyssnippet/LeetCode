@@ -17,7 +17,7 @@ See the built page here: [LeetCode Solutions](https://leetcode-sol.vercel.app).
 
 ## Coding Style and Naming
 
-Please see the [style guide](https://github.com/amyssnippet/Leetcode/STYLEGUIDE.md).
+Please see the [style guide](https://github.com/amyssnippet/LeetCode/blob/v1.0/STYLEGUIDE.md).
  
 ## Fun Facts
 
