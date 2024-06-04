@@ -1,0 +1,40 @@
+
+body{
+  background-color: black;
+  color: #fff;
+}
+
+pre{
+  background-color: black;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 10px;
+  overflow-x: auto;
+  color: #fff;
+}
+
+code{
+  display: block;
+  white-space: pre;
+  color: #fff;
+}
+
+.searchbox{
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.searchbox::placeholder{
+  font-size: 20px;
+  font-weight: bold;
+  color: #000;
+}
+
+.btn{
+  height: 55px;
+  border: 1px solid white;
+  border-radius: 10px;
+  background-color: black;
+  color: #fff;
+}
