@@ -8,13 +8,13 @@ document.getElementById('searchForm').addEventListener('submit', async function(
 
             resultsContainer.innerHTML = "Searching...";
 
-            const repoOwner = 'amyssnippet'; // Set your repository owner
+            const repoOwner = 'amyssnippet';
 
-            const repoName = 'LeetCode-sols'; // Set your repository name
+            const repoName = 'LeetCode-sols';
 
-            const folderPath = 'solutions'; // Set the folder path within the repository
+            const folderPath = 'solutions';
 
-            const token = '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'; // Set your personal access token
+            const token = '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'; 
 
             try {
 
